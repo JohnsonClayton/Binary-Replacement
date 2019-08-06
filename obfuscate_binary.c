@@ -8,9 +8,9 @@
  *	To-Do:
  *	=================================================================================
  *	[x] 	Provide PoC for changing singular bytes in segment
- *	[ ] 	Replace hard-coded values with constants for cleanliness
- *	[ ]	Import opcodes and replace sections of the same size
- *	[ ] 	Test if the program still runs as expected; if so, save file and exit
+ *	[x] 	Replace hard-coded values with constants for cleanliness
+ *	[x]	Import opcodes and replace sections of the same size
+ *	[x] 	Test if the program still runs as expected; if so, save file and exit
  */
 #include <stdio.h>
 #include <stdlib.h>
